@@ -1,0 +1,18 @@
+# Versions below are the exact ones the V5 test suite and browser E2E test were run with.
+streamlit==1.64.0
+google-genai==2.25.0
+pydantic==2.13.5
+python-docx==1.2.0
+lxml==6.0.2
+Pillow==12.1.1
+numpy==2.4.4
+pandas==3.0.2
+matplotlib==3.10.8
+sympy==1.14.0
+latex2mathml==3.81.1
+mathml2omml==0.0.2
+python-bidi==0.6.11
+arabic-reshaper==3.0.1
+streamlit-paste-button==0.1.2
+streamlit-cropper==0.3.1
+streamlit-drawable-canvas==0.13.0
